@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 from typing import Sequence, Union, Any
 
 # The types of the elements of the input are not know

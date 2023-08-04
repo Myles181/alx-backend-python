@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 from typing import Tuple
 
 def zoom_array(lst: Tuple, factor: int = 2) -> Tuple:
