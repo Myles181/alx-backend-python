@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from typing import Mapping, Any, Union, TypeVar
 
 # Define a type variable ~T
