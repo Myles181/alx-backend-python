@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 This script defines a function to calculate the lengths of sequences in an iterable.
 
