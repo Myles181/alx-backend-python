@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 a: int = 1
 """
 An integer value representing the variable 'a'.
